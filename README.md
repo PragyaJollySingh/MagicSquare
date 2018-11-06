@@ -1,0 +1,2 @@
+# MagicSquare
+Basic Magic Square
